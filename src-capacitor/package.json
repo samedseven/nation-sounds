@@ -1,0 +1,12 @@
+{
+  "name": "nation-sounds",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "author": "Samed <samed.seven@outlook.fr>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.2.1",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "nation-sounds",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "productName": "Nation App",
+  "author": "Samed <samed.seven@outlook.fr>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@capacitor/core": "^2.2.1",
+    "@ionic/pwa-elements": "^3.0.0",
+    "@quasar/extras": "^1.0.0",
+    "body-parser": "^1.19.0",
+    "core-js": "^3.6.5",
+    "mapbox-gl": "^1.11.1",
+    "mongoose": "^5.9.24",
+    "quasar": "^1.0.0",
+    "vue2-google-maps": "^0.10.7"
+  },
+  "devDependencies": {
+    "@quasar/app": "^2.0.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
